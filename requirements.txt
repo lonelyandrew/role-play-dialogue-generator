@@ -1,0 +1,6 @@
+streamlit
+black
+zhipuai
+loguru
+pydantic-settings
+watchdog
